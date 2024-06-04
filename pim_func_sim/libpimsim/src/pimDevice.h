@@ -1,6 +1,5 @@
 // File: pimDevice.h
 // PIM Functional Simulator - PIM Device
-// Copyright 2024 LavaLab @ University of Virginia. All rights reserved.
 
 #ifndef LAVA_PIM_DEVICE_H
 #define LAVA_PIM_DEVICE_H

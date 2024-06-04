@@ -1,6 +1,5 @@
 // File: pimResMgr.cpp
 // PIM Functional Simulator - PIM Resource Manager
-// Copyright 2024 LavaLab @ University of Virginia. All rights reserved.
 
 #include "pimResMgr.h"
 #include "pimDevice.h"

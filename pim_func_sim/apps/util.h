@@ -1,5 +1,4 @@
 // PIM Functional Simulator - Application Utilities
-// Copyright 2024 LavaLab @ University of Virginia. All rights reserved.
 
 #ifndef PIM_FUNC_SIM_APPS_UTIL_H
 #define PIM_FUNC_SIM_APPS_UTIL_H

@@ -39,8 +39,7 @@
   * Requires `make dramsim3_integ`
 * Below is needed for dramsim3_integ for now
 ```bash
-# Build dramsim3
-git clone https://github.com/fasiddique/DRAMsim3.git
+# Clone dramsim3
 cd DRAMsim3/
 git checkout benchmark
 mkdir build
@@ -53,9 +52,3 @@ cd pim-func-sim
 export DRAMSIM3_PATH=<path_to_DRAMSIM3>
 make -j
 ```
-
-### Contributors
-* Deyuan Guo
-* Farzana Siddique
-* Mohammadhosein Gholamrezaei
-* Zhenxing Fan

@@ -1,5 +1,4 @@
 # Makefile: C++ version of AES
-# Copyright 2024 LavaLab @ University of Virginia. All rights reserved.
 
 CXX := g++
 CXXFLAGS := -std=c++17 -Wall

@@ -12,4 +12,4 @@ Execution instructions:
 
 Input files:
 
-Testing can be done with any 24-bit .bmp file. Sample input can be found from the Phoenix [GitHub](https://github.com/fasiddique/DRAMAP-Phoenix/tree/main) or the direct [link](http://csl.stanford.edu/~christos/data/histogram.tar.gz).
+Testing can be done with any 24-bit .bmp file.

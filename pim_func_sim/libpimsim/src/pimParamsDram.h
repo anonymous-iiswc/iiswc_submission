@@ -1,6 +1,5 @@
 // File: pimParamsDram.h
 // PIM Functional Simulator - DRAM parameters
-// Copyright 2024 LavaLab @ University of Virginia. All rights reserved.
 
 #ifndef LAVA_PIM_PARAMS_DRAM_H
 #define LAVA_PIM_PARAMS_DRAM_H

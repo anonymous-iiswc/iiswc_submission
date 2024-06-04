@@ -1,6 +1,5 @@
 // File: pimDevice.cpp
 // PIM Functional Simulator - PIM Device
-// Copyright 2024 LavaLab @ University of Virginia. All rights reserved.
 
 #include "pimDevice.h"
 #include "pimResMgr.h"

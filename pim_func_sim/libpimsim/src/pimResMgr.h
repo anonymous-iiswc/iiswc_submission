@@ -1,6 +1,5 @@
 // File: pimResMgr.h
 // PIM Functional Simulator - PIM Resource Manager
-// Copyright 2024 LavaLab @ University of Virginia. All rights reserved.
 
 #ifndef LAVA_PIM_RES_MGR_H
 #define LAVA_PIM_RES_MGR_H

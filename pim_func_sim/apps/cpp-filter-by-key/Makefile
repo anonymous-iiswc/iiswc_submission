@@ -1,5 +1,4 @@
 # Makefile: C++ version of filter-by-key
-# Copyright 2024 LavaLab @ University of Virginia. All rights reserved.
 
 include ../Makefile.common
 

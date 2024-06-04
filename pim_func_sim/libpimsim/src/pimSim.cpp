@@ -1,6 +1,5 @@
 // File: pimSim.cpp
 // PIM Functional Simulator - PIM Simulator Main Entry
-// Copyright 2024 LavaLab @ University of Virginia. All rights reserved.
 
 #include "pimSim.h"
 #include "pimCmd.h"

@@ -1,5 +1,4 @@
 # Makefile for PIM Functional Simulator - Applications
-# Copyright 2024 LavaLab @ University of Virginia. All rights reserved.
 
 SUBDIRS := $(wildcard */.)
 

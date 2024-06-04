@@ -1,6 +1,5 @@
 // File: pimCore.cpp
 // PIM Functional Simulator - PIM Core
-// Copyright 2024 LavaLab @ University of Virginia. All rights reserved.
 
 #include "pimCore.h"
 #include <random>

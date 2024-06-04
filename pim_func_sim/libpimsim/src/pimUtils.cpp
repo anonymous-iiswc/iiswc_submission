@@ -1,6 +1,5 @@
 // File: pimUtils.cc
 // PIM Functional Simulator - Utilities
-// Copyright 2024 LavaLab @ University of Virginia. All rights reserved.
 
 #include "pimUtils.h"
 

@@ -1,5 +1,4 @@
 // Test: C++ version of linear regression
-// Copyright 2024 LavaLab @ University of Virginia. All rights reserved.
 
 #include <iostream>
 #include <vector>

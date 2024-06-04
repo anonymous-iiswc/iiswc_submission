@@ -1,6 +1,5 @@
 // File: pimSim.h
 // PIM Functional Simulator - PIM Simulator Main Entry
-// Copyright 2024 LavaLab @ University of Virginia. All rights reserved.
 
 #ifndef LAVA_PIM_SIM_H
 #define LAVA_PIM_SIM_H

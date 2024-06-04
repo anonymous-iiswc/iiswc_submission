@@ -1,6 +1,5 @@
 // File: pimStats.cpp
 // PIM Functional Simulator - Stats
-// Copyright 2024 LavaLab @ University of Virginia. All rights reserved.
 
 #include "pimStats.h"
 #include "pimSim.h"

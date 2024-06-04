@@ -1,5 +1,4 @@
 # Makefile for AES
-# Copyright 2024 LavaLab @ University of Virginia. All rights reserved.
 
 SUBDIRS := PIM
 

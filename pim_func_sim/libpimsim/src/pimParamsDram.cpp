@@ -1,6 +1,5 @@
 // File: pimParamsDram.cc
 // PIM Functional Simulator - DRAM parameters
-// Copyright 2024 LavaLab @ University of Virginia. All rights reserved.
 
 #include "pimParamsDram.h"
 
