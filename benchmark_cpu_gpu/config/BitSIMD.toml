@@ -1,0 +1,16 @@
+title = "BitSIMD"
+
+[pimAdd]
+R = 64
+W = 33
+L = 161
+
+[pimSub]
+R = 64
+W = 33
+L = 161
+
+[pimAbs]
+R = 98
+W = 66
+L = 192

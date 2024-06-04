@@ -1,0 +1,16 @@
+title = "SIMDRAM"
+
+[pimAdd]
+R = 96
+W = 65
+L = 225
+
+[pimSub]
+R = 96
+W = 65
+L = 225
+
+[pimAbs]
+R = 130
+W = 98
+L = 672
